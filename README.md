@@ -27,6 +27,7 @@ The app uses the following dependencies:
 
 -   React
 -   React-Three-Fiber
+-   Typescript
 -   Vite bundler
 
 ## Application Walkthrough
