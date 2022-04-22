@@ -19,7 +19,7 @@ pnpm i
 pnpm dev
 ```
 
-## Tech Stack and File Structure
+## Tech Stack
 
 ### Dependencies
 
