@@ -23,7 +23,7 @@ pnpm dev
 
 ### Dependencies
 
-The app uses the following dependencies for running and testing:
+The app uses the following dependencies:
 
 -   React
 -   React-Three-Fiber
