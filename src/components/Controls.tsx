@@ -9,12 +9,12 @@ const Controls = ({
 }) => {
     return (
         <form onSubmit={(e) => e.preventDefault()}>
-            <button onClick={() => turnState.handler(!turnState)}>
+            <button onClick={() => turnState.handler(!turnState.state)}>
                 Toggle Turning On Axis
             </button>
             <button
                 onClick={() => {
-                    bladeState.handler(!bladeState);
+                    bladeState.handler(!bladeState.state);
                     bladeSpeed.handler(0);
                 }}
             >
