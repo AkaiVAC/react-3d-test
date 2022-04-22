@@ -32,7 +32,7 @@ The app uses the following dependencies:
 
 ## Application Walkthrough
 
-This app is available at [react-3d-test.netlify.app](react-3d-test.netlify.app)
+This app is available at [react-3d-test.netlify.app]('https://react-3d-test.netlify.app')
 
 On page load, a 3D model of a windmill, downloaded from [sketchfab]('https://sketchfab.com/3d-models/wind-turbine-285032402a8543ae8bf3e3c4d8c9f98a') is shown on screen.
 
