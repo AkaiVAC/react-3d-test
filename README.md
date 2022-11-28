@@ -1,7 +1,5 @@
 # React 3D Test
 
-This web app has been developed, keeping in mind, the guidelines set down in the document provided along with the data.
-
 The primary objectives of this application are to achieve the following:
 
 -   Showcase a 3D Model in the browser with animation
